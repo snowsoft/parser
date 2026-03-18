@@ -30,13 +30,13 @@
     "require": {
  
         "illuminate/container": "^13.0",
-        "laravie/parser": "^3.0"
+        "snowsoft/lv-parser": "^4.0"
     },
     "require-dev": {
-        "laravel/pint": "^1.21",
-        "orchestra/testbench": "^11.0",
-        "phpstan/phpstan": "^2.0",
-        "phpunit/phpunit": "^11.5"
+        "laravel/pint": "*",
+        "orchestra/testbench": "*",
+        "phpstan/phpstan": "*",
+        "phpunit/phpunit": "*"
     },
     "extra": {
         "branch-alias": {
