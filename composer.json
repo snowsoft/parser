@@ -28,7 +28,7 @@
         }
     },
     "require": {
-        "php": "^8.2",
+ 
         "illuminate/container": "^13.0",
         "laravie/parser": "^3.0"
     },
